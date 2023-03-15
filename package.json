@@ -1,0 +1,19 @@
+{
+  "name": "readme.md",
+  "version": "1.0.0",
+  "description": "Por favor funciona",
+  "main": "class6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanapizzo/Readme.md.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanapizzo/Readme.md/issues"
+  },
+  "homepage": "https://github.com/ivanapizzo/Readme.md#readme"
+}
